@@ -22,7 +22,7 @@ class PHP_Email_Form {
 
   public $content_type = 'text/html';
   public $charset = 'utf-8';
-  public $ajax = false;
+  public $ajax = true;
 
   public $options = [];
   public $cc = [];
