@@ -417,7 +417,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -514,6 +514,18 @@ section {
   border: 2px solid #1f5297;
 }
 
+.resume button[type=submit] {
+  background: #149ddd;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 4px;
+}
+
+.resume button:hover {
+  background: #37b3ed;
+}
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
