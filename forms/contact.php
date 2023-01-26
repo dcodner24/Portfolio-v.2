@@ -29,7 +29,7 @@
     'host' => 'email-smtp.us-east-2.amazonaws.com',
     'username' => 'AKIAZXOAJORZ2C3TPPWV',
     'password' => 'BI0KmZiTX9FnXSo2FYt1qoiEufYM0T/MqTbt6ZahLv49',
-    'port' => '587'
+    'port' => '465'
   );
   
 
