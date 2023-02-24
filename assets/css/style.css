@@ -572,6 +572,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  border: #41414156 .5px solid;
 }
 
 .portfolio .portfolio-wrap::before {
@@ -585,6 +586,7 @@ section {
   transition: all ease-in-out 0.3s;
   z-index: 2;
   opacity: 0;
+ 
 }
 
 .portfolio .portfolio-wrap .portfolio-links {
