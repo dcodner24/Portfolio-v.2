@@ -262,5 +262,5 @@
 
 let viewRes = document.getElementById('viewRes');
 viewRes.onclick = function() {
-   window.open("https://drive.google.com/file/d/1v1kXeTCUCliBjaM4PmIrc_8F48J8wFUM/view?usp=sharing")
+   window.open("https://drive.google.com/file/d/1OaWim_HSgFZiCgdjmR8D9hWa_A5lXmAg/view?usp=sharing")
 };
